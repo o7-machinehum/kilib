@@ -97,4 +97,14 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model "step/18650.step"
+    (offset (xyz -32.5 -10 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 90))
+  )
+  (model "step/18650.step"
+    (offset (xyz -32.5 9 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 90))
+  )
 )
